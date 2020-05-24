@@ -1,1 +1,2 @@
 XDocument xdocument;
+String path;
